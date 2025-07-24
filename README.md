@@ -1,8 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=teocchiii.teocchiii" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There; My+name+is+Daniel+Del+Castillo+🍂!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There;My+name+is+Daniel+Del+Castillo+🍂!;" />
 </h1>
+
+<div align="center">
+    - 👀 I’m interested in IOT Edge Architecture and ArchLinux
+    - 🌱 I’m currently learning AWS, And microservices Deployment
+    - 📫 How to reach me dev.dmdcb@gmail.com
+</div>
 
 <div align="center"> 
   <a href="mailto:dev.dmdcb@gmail.com">
