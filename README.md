@@ -7,10 +7,11 @@
 <div align="center">
     - 👀 I’m interested in IOT Edge Architecture and ArchLinux <br>
     - 🌱 I’m currently learning AWS, And microservices Deployment<br>
-    - 📫 How to reach me dev.dmdcb@gmail.com
+    = 🍁 I want to become a software architect
 </div>
 
 <div align="center"> 
+    <p>You can find reach me in: </p>
   <a href="mailto:dev.dmdcb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -31,12 +32,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Clean%20Architecture-%20-blueviolet?style=for-the-badge" alt="Clean Architecture" />
   <img src="https://img.shields.io/badge/Domain%20Driven--Design%20Design-%20-orange?style=for-the-badge" alt="Feature Sliced Design" />
-
 </p>
 
-<h2 align="center"> Languages,Frameworks and Tools </h2>
+<h2 align="center">Tools, Languages and Frameworks</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,css,vscode,github,gherkin,azure,gcp" />
+    <img src="https://skillicons.dev/icons?vscode,idea,webstorm,github,gherkin,azure,gcp" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,java,angular,react,vue,vite,flutter,flask,spring,dotnet,kafka,kubernetes,docker,redis,mysql,mongodb" /><br>
 </div>
