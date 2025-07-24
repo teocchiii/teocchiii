@@ -5,8 +5,8 @@
 </h1>
 
 <div align="center">
-    - 👀 I’m interested in IOT Edge Architecture and ArchLinux
-    - 🌱 I’m currently learning AWS, And microservices Deployment
+    - 👀 I’m interested in IOT Edge Architecture and ArchLinux <br>
+    - 🌱 I’m currently learning AWS, And microservices Deployment<br>
     - 📫 How to reach me dev.dmdcb@gmail.com
 </div>
 
