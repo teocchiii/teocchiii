@@ -37,6 +37,6 @@
 <h2 align="center">Tools, Languages and Frameworks</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?vscode,idea,webstorm,github,gherkin,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,github,gherkin,azure,gcp" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,java,angular,react,vue,vite,flutter,flask,spring,dotnet,kafka,kubernetes,docker,redis,mysql,mongodb" /><br>
 </div>
